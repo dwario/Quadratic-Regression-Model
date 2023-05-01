@@ -1,0 +1,1 @@
+# Cuadratic-Regression-Model
